@@ -1,0 +1,5 @@
+linux-meta-lowlatency (5.18.0.1007.8) SL518; urgency=medium
+
+  * Bump ABI 5.18.0-1007
+
+ -- Ionut Nechita <ionut_n2001@yahoo.com>  Thu, 7 Jul 2022 08:40:10 +0200
